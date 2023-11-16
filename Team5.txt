@@ -1,0 +1,23 @@
+1. Accendo il telefono 
+2. Entro nell'app di Amazon
+3. Penso a cosa potrebbe piacerle
+4. Faccio una lista di cosa le piace
+5. Confronto caratteristiche dei prodotti 
+6. Confronto prezzi
+7. Confronto tempi
+8. Individuato la lampada come regalo
+9. ? Controllo del budget e le tempistiche di spedizione
+    9a. Acquisto il prodotto
+    9b. : Ritorno alla lista
+10. Individuata la penna stilografica 
+11. ? Controllo del budget e le tempistiche di spedizione
+    11a. Acquisto il prodotto
+    11b. : Ritorno alla lista
+12. Individuato il libro come regalo
+13. ? Controllo del budget e le tempistiche di spedizione
+    13a. Acquisto del prodotto
+13.1. Il libro viene aggiunto nel carrello
+13.2. Vengono inseriti i dati della carta per l'acquisto
+13.3. Inserimento dati per la spedizione
+13.4. Resoconto per conferma dati della carta e del luogo di spedizione
+13.5. Conferma acquisto del prodotto
